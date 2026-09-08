@@ -1,0 +1,11 @@
+model_size,split,utt_id,ground_truth,hypothesis_raw,wer
+base,test-other,3528-168669-0126,AH THE DE EXCLAIMED FAUCHELEVENT, Aah neither exclaimed fresh hold on,1.2
+tiny,test-other,2414-128292-0000,WHITHER HATH MY LONESOMENESS GONE SPAKE HE," Wither headms, myotyem gotten to me avor kicked",1.1428571428571428
+tiny,test-clean,237-134493-0007,ALEXANDRA LETS YOU SLEEP LATE, Out of the Xander that's you sleep late.,1.0
+tiny,test-other,533-131556-0008,YOU MAY GO MILICENT AND SHE'LL FOLLOW IN A WHILE MILICENT WENT," In my goal, I'll listen until following the while. I'll listen, print.",1.0
+tiny,test-other,8461-258277-0011,KNOWEST THOU WHITHER HE WENT, No was that with a he went.,1.0
+tiny,test-other,1998-29455-0039,WHAT'S THAT THERE SAID DICKIE, or step they starts,1.0
+tiny,test-other,2414-128291-0024,THOU AMIABLE ONE," Now, stand up one.",1.0
+tiny,test-other,3528-168669-0126,AH THE DE EXCLAIMED FAUCHELEVENT," Ahh... Leader! Eh, sorry...",1.0
+base,test-other,1998-29455-0039,WHAT'S THAT THERE SAID DICKIE, or is that the sticky?,1.0
+tiny,test-other,6070-86744-0003,I CAN SCARCELY CREDIT IT, I am scared to leave credit it.,0.8

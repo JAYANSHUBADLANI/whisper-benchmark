@@ -1,0 +1,7 @@
+model_size,split,wer_duration_correlation
+base,test-clean,-0.21738707571013977
+base,test-other,-0.3008293040715776
+small,test-clean,-0.16919945661256083
+small,test-other,-0.2888451537715548
+tiny,test-clean,-0.23043772746130914
+tiny,test-other,-0.30269036034468183

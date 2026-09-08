@@ -1,0 +1,31 @@
+{
+  "per_model_gap_ci": [
+    {
+      "model_size": "tiny",
+      "gap_mean": 0.23243936661753656,
+      "gap_ci_low": 0.11741780555975898,
+      "gap_ci_high": 0.35386733317123836
+    },
+    {
+      "model_size": "base",
+      "gap_mean": 0.18039294709872303,
+      "gap_ci_low": 0.08594169896220177,
+      "gap_ci_high": 0.27977541845892995
+    },
+    {
+      "model_size": "small",
+      "gap_mean": 0.12725046002565588,
+      "gap_ci_low": 0.058490267970933194,
+      "gap_ci_high": 0.19833498645476014
+    }
+  ],
+  "tiny_minus_small_gap_diff_mean": 0.1027232526209939,
+  "tiny_minus_small_gap_diff_ci_95": [
+    0.017876034753236715,
+    0.18400327395335309
+  ],
+  "p_tiny_gap_larger_than_small": 0.9924,
+  "significant_at_95pct_two_sided": true,
+  "n_bootstrap": 5000,
+  "seed": 42
+}

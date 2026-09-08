@@ -1,0 +1,2162 @@
+[
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0028",
+    "ground_truth": "THEN HE TOSSED IT DOWN AND SEIZED THE NEXT",
+    "hypothesis_raw": " Then he tossed it down and sees the next.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.1866471767425537
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "7021-79730-0004",
+    "ground_truth": "THE MOTHER AS SOON AS THE CHAISE IS SO FAR TURNED THAT MARY CAN NO LONGER WATCH THE EXPRESSION OF HER COUNTENANCE GOES AWAY FROM THE DOOR WITH A SMILE OF COMPLACENCY AND SATISFACTION UPON HER FACE AT THE INGENUITY AND SUCCESS OF HER LITTLE ARTIFICE",
+    "hypothesis_raw": " The mother, as soon as the chase is so far turned that Mary can no longer watch the expression of her confidence, goes away from the door with a smile of complacency and satisfaction on her face at the ingenuity and success of her little activists",
+    "wer": 0.08695652173913043,
+    "transcribe_seconds": 0.6748011112213135
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "4446-2273-0027",
+    "ground_truth": "WHEN SHE FINISHED ALEXANDER SHOOK HIMSELF OUT OF A REVERIE",
+    "hypothesis_raw": " When she finished, Alexander shook himself out of a reverie.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.13818693161010742
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "8230-279154-0001",
+    "ground_truth": "WHAT IS CALLED PERCEPTION DIFFERS FROM SENSATION BY THE FACT THAT THE SENSATIONAL INGREDIENTS BRING UP HABITUAL ASSOCIATES IMAGES AND EXPECTATIONS OF THEIR USUAL CORRELATES ALL OF WHICH ARE SUBJECTIVELY INDISTINGUISHABLE FROM THE SENSATION",
+    "hypothesis_raw": " What is called perception differs from sensation by the fact that the sensational ingredients bring up habitual associates, images and expectations of their usual correlates, all of which are subjectively indistinguishable from the sensation.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.20407414436340332
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "237-134493-0009",
+    "ground_truth": "PLEASE WAIT FOR ME MARIE EMIL COAXED",
+    "hypothesis_raw": " Please wait for me Marie. Amel coaxed.",
+    "wer": 0.14285714285714285,
+    "transcribe_seconds": 0.13001203536987305
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "5142-36377-0005",
+    "ground_truth": "THE DOOR OPENED AGAIN WHILE I WAS STILL STUDYING THE TWO BROTHERS WITHOUT I HONESTLY CONFESS BEING VERY FAVORABLY IMPRESSED BY EITHER OF THEM",
+    "hypothesis_raw": " The door opened again while I was still studying the two brothers, without I honestly confess, being very favorably impressed by either of them.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.16556406021118164
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "4446-2273-0034",
+    "ground_truth": "HE FELT A TREMOR RUN THROUGH THE SLENDER YELLOW FIGURE IN FRONT OF HIM",
+    "hypothesis_raw": " He felt a trauma run through the slender yellow figure in front of him.",
+    "wer": 0.07142857142857142,
+    "transcribe_seconds": 0.1386280059814453
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "4077-13751-0005",
+    "ground_truth": "NEVERTHELESS THE MUSTARD SEED AMONG THE SMALLEST OF ALL SEEDS HAS ATTAINED THE PROPORTIONS OF A TREE AND THE BIRDS OF THE AIR ARE NESTING IN ITS BRANCHES THE ACORN IS NOW AN OAK OFFERING PROTECTION AND THE SWEETS OF SATISFACTION TO EVERY EARNEST PILGRIM JOURNEYING ITS WAY FOR TRUTH",
+    "hypothesis_raw": " Nevertheless, the mustard seed, among the smallest of all seeds, has attained the proportions of a tree, and the birds of the air are nesting in its branches. The acorn is now in oak, offering protection and the suites of satisfaction, to every earnest pilgrim journeying its way for truth.",
+    "wer": 0.04,
+    "transcribe_seconds": 0.2784121036529541
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "7176-88083-0000",
+    "ground_truth": "ALL ABOUT HIM WAS A TUMULT OF BRIGHT AND BROKEN COLOR SCATTERED IN BROAD SPLASHES",
+    "hypothesis_raw": " All about him was a tumult of bright and broken color scattered in broad splashes.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.14523625373840332
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "8463-294828-0035",
+    "ground_truth": "AND SO IF I'D BEEN DELAYED BY A QUARTER OF AN HOUR OR EVEN LESS THE FRIGATE WOULD HAVE GONE WITHOUT ME AND I WOULD HAVE MISSED OUT ON THIS UNEARTHLY EXTRAORDINARY AND INCONCEIVABLE EXPEDITION WHOSE TRUE STORY MIGHT WELL MEET WITH SOME SKEPTICISM",
+    "hypothesis_raw": " And so, if I had been delayed by a quarter of an hour or even less, the forget would have gone without me. And I would have messed out on this unearthly, extraordinary and inconceivable expedition. Whose true story might well meet with some skepticism.",
+    "wer": 0.09090909090909091,
+    "transcribe_seconds": 0.24382305145263672
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "5142-33396-0033",
+    "ground_truth": "YOU WOULD NOT EAT WITH US YOU CANNOT SAY NO TO HALF OF MY ALE I DRINK THIS TO YOUR HEALTH",
+    "hypothesis_raw": " You would not eat with us. You cannot say no to half of my ale. I drink this to your health.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1558980941772461
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "4970-29093-0010",
+    "ground_truth": "HE HAD NO FRIEND WISE ENOUGH TO TELL HIM TO STEP INTO THE DORKING CONVENTION THEN IN SESSION MAKE A SKETCH OF THE MEN AND WOMEN ON THE PLATFORM AND TAKE IT TO THE EDITOR OF THE DAILY GRAPEVINE AND SEE WHAT HE COULD GET A LINE FOR IT",
+    "hypothesis_raw": " He had no friend wise enough to tell him to step into the doorking convention, then in session, make a sketch of the men and women on the platform, and take it to the editor of the Daily Grapevine and see what he could get a line for it.",
+    "wer": 0.02040816326530612,
+    "transcribe_seconds": 0.24542999267578125
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "3729-6852-0010",
+    "ground_truth": "I NEVER HAD ANY FAMILY",
+    "hypothesis_raw": " I never had any family.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.115509033203125
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0051",
+    "ground_truth": "AT TEA TIME THEY WERE SAD AND SILENT AND THE MEAL WENT AWAY UNTOUCHED BY ANY OF THE THREE",
+    "hypothesis_raw": " At T-time they were sad and silent and the meal went away untouched by any of the three.",
+    "wer": 0.05263157894736842,
+    "transcribe_seconds": 0.15020108222961426
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "5105-28233-0000",
+    "ground_truth": "LENGTH OF SERVICE FOURTEEN YEARS THREE MONTHS AND FIVE DAYS",
+    "hypothesis_raw": " length of service 14 years 3 months and 5 days.",
+    "wer": 0.3,
+    "transcribe_seconds": 0.12174606323242188
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "5639-40744-0018",
+    "ground_truth": "THAT WOULD BE VERY WELL MY CHILD REPLIED HER FATHER IF YOUR PLAN WERE NOT LIABLE TO BE FRUSTRATED BY ORDINARY CUNNING BUT NO DOUBT THIS IMAGE HAS BEEN ALREADY MISSED BY ITS OWNER AND HE WILL HAVE SET IT DOWN FOR CERTAIN THAT IT WAS TAKEN OUT OF THE ROOM BY THE PERSON HE LOCKED UP THERE",
+    "hypothesis_raw": " That would be very well my child, reply to father. If your plan were not liable to be frustrated by ordinary cunning, but no doubt this image had been already missed by his owner, and he will have set it down for certain that it was taken out of the room by the person he locked up there.",
+    "wer": 0.06896551724137931,
+    "transcribe_seconds": 0.29410290718078613
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "8555-292519-0009",
+    "ground_truth": "HO YE SAILS THAT SEEM TO WANDER IN DREAM FILLED MEADOWS SAY IS THE SHORE WHERE I STAND THE ONLY FIELD OF STRUGGLE OR ARE YE HIT AND BATTERED OUT THERE BY WAVES AND WIND GUSTS AS YE TACK OVER A CLASHING SEA OF WATERY ECHOES",
+    "hypothesis_raw": " Ho, he sails that seem to wander in dream-filled menos. Say, is the shore where I stand the only field of struggle, or are he hit and battered out there by waves and wind gusts as he tack over a clashing sea of watery echoes?",
+    "wer": 0.08695652173913043,
+    "transcribe_seconds": 0.2635459899902344
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1580-141084-0043",
+    "ground_truth": "HE PUT HIS SHOES ON THE TABLE",
+    "hypothesis_raw": " He put his shoes on the table.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1238861083984375
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "237-134493-0007",
+    "ground_truth": "ALEXANDRA LETS YOU SLEEP LATE",
+    "hypothesis_raw": " Out of the Xander that's you sleep late.",
+    "wer": 1.0,
+    "transcribe_seconds": 0.12521004676818848
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "7176-92135-0029",
+    "ground_truth": "I WANT TO GET AWAY FROM IT ALL SWOONS",
+    "hypothesis_raw": " I want to get away from it all. Swoon!",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.13240504264831543
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0042",
+    "ground_truth": "MY SCHOLAR HAS BEEN LEFT VERY POOR BUT HE IS HARD WORKING AND INDUSTRIOUS HE WILL DO WELL",
+    "hypothesis_raw": " My scholar has been left very poor, but he is hardworking and industrious. He will do well.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.1586289405822754
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "260-123288-0002",
+    "ground_truth": "THE ATMOSPHERE IS CHARGED WITH VAPOURS PERVADED WITH THE ELECTRICITY GENERATED BY THE EVAPORATION OF SALINE WATERS",
+    "hypothesis_raw": " The atmosphere is charged with vapors, provided with the electricity generated by the evaporation of saline waters.",
+    "wer": 0.11764705882352941,
+    "transcribe_seconds": 0.16297006607055664
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1995-1837-0015",
+    "ground_truth": "THE SQUARES OF COTTON SHARP EDGED HEAVY WERE JUST ABOUT TO BURST TO BOLLS",
+    "hypothesis_raw": " The squares of cotton sharp edge heavy were just about to burst to bowls.",
+    "wer": 0.14285714285714285,
+    "transcribe_seconds": 0.1365039348602295
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "237-126133-0004",
+    "ground_truth": "IF SHE COULD ONLY SEE PHRONSIE FOR JUST ONE MOMENT",
+    "hypothesis_raw": " If she could only see Franzi for just one moment.",
+    "wer": 0.1,
+    "transcribe_seconds": 0.1273040771484375
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0019",
+    "ground_truth": "ABOVE WERE THREE STUDENTS ONE ON EACH STORY",
+    "hypothesis_raw": " Above were three students one on each story.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.11966586112976074
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1284-1181-0002",
+    "ground_truth": "THE HEAD OF THE PATCHWORK GIRL WAS THE MOST CURIOUS PART OF HER",
+    "hypothesis_raw": " The head of the patchwork girl was the most curious part of her.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1333937644958496
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "8230-279154-0015",
+    "ground_truth": "THEY MUST HAVE SOME CHARACTERISTIC WHICH MAKES US REGARD THEM AS REFERRING TO MORE OR LESS REMOTE PORTIONS OF THE PAST",
+    "hypothesis_raw": " They must have some characteristic, which makes us regard them as referring to more or less remote portions of the past.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1563582420349121
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "6930-76324-0017",
+    "ground_truth": "OH LET HIM COME ALONG SHE URGED I DO LOVE TO SEE HIM ABOUT THAT OLD HOUSE",
+    "hypothesis_raw": " Oh, let him come along, she urged. I do love to see him about that old house.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.15263986587524414
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "672-122797-0000",
+    "ground_truth": "OUT IN THE WOODS STOOD A NICE LITTLE FIR TREE",
+    "hypothesis_raw": " Out in the woods to the nice little fir tree.",
+    "wer": 0.2,
+    "transcribe_seconds": 0.12322402000427246
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "672-122797-0059",
+    "ground_truth": "ONLY THAT ONE ANSWERED THE TREE",
+    "hypothesis_raw": " only that one and so the tree.",
+    "wer": 0.3333333333333333,
+    "transcribe_seconds": 0.11470818519592285
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0043",
+    "ground_truth": "HOWEVER REMEMBERING WHAT YOU TOLD ME NAMELY THAT YOU HAD COMMENDED THE MATTER TO A HIGHER DECISION THAN OURS AND THAT YOU WERE RESOLVED TO SUBMIT WITH RESIGNATION TO THAT DECISION WHATEVER IT MIGHT BE I HOLD IT MY DUTY TO YIELD ALSO AND TO BE SILENT IT MAY BE ALL FOR THE BEST",
+    "hypothesis_raw": " However, remembering what you told me, namely that you had commended the matter to a higher decision than ours, and that you were resolved to submit with resignation to that decision, whatever it might be. I hold it my duty to yield also and to be silent, and may be all for the best.",
+    "wer": 0.018518518518518517,
+    "transcribe_seconds": 0.28095102310180664
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1284-1180-0014",
+    "ground_truth": "OJO HAD NEVER EATEN SUCH A FINE MEAL IN ALL HIS LIFE",
+    "hypothesis_raw": " Ojo had never eaten such a fine meal in all his life.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.13730573654174805
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0044",
+    "ground_truth": "AFTER THIS DISAPPOINTMENT I NEVER DARE RECKON WITH CERTAINTY ON THE ENJOYMENT OF A PLEASURE AGAIN IT SEEMS AS IF SOME FATALITY STOOD BETWEEN YOU AND ME",
+    "hypothesis_raw": " After this disappointment, I never dare racking with certainty on the enjoyment of a pleasure again. It seems as if some fatality stood between you and me.",
+    "wer": 0.037037037037037035,
+    "transcribe_seconds": 0.19385194778442383
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "61-70968-0058",
+    "ground_truth": "WILL YOU FORGIVE ME NOW",
+    "hypothesis_raw": " Will you forgive me now?",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1141359806060791
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "4992-41797-0005",
+    "ground_truth": "DONE HE AIN'T DONE A THING HE'D OUGHTER SENCE HE WAS BORN",
+    "hypothesis_raw": " Done, he ain't done a thing he orders since he was born.",
+    "wer": 0.25,
+    "transcribe_seconds": 0.1338057518005371
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "5105-28241-0008",
+    "ground_truth": "THE EARTH HAS UNDOUBTEDLY ENTERED UPON A NEW ORBIT BUT SHE IS NOT INCURRING ANY PROBABLE RISK OF BEING PRECIPITATED ONTO THE SUN",
+    "hypothesis_raw": " The Earth has undoubtedly entered upon a new orbit, but she is not incurring any probable risk of being precipitated onto the Sun.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.16617083549499512
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "121-127105-0017",
+    "ground_truth": "IT WAS ALMOST THE TONE OF HOPE EVERYBODY WILL STAY",
+    "hypothesis_raw": " It was almost the tone of hope, everybody will stay.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1293778419494629
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "6829-68769-0052",
+    "ground_truth": "HE MIGHT HAVE HAD THAT FORGED CHECK FOR THE FACE OF IT IF HE'D BEEN SHARP",
+    "hypothesis_raw": " He might have had that forged check for the face of it if he'd been sharp.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.14177393913269043
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "61-70968-0038",
+    "ground_truth": "ROBIN FITZOOTH",
+    "hypothesis_raw": " Robin Fitzsouth",
+    "wer": 0.5,
+    "transcribe_seconds": 0.10491514205932617
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0044",
+    "ground_truth": "I DARE NOT GO SO FAR AS THAT BUT OF THE THREE HE IS PERHAPS THE LEAST UNLIKELY",
+    "hypothesis_raw": " I dare not go so far as that, but of the three he is perhaps the least unlikely.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1492910385131836
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7105-2330-0040",
+    "ground_truth": "THE SEAT WAS LOST AFTER ALL BY A NARROW MAJORITY",
+    "hypothesis_raw": " This seat was lost after all by a narrow maturity.",
+    "wer": 0.2,
+    "transcribe_seconds": 0.125014066696167
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3528-168669-0063",
+    "ground_truth": "WHERE INTO THE VAULT",
+    "hypothesis_raw": " Where? Into the vault.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.11286401748657227
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "2414-159411-0013",
+    "ground_truth": "LET THE TIGER EAT THE MAN FOR MEN HAVE NO PITY",
+    "hypothesis_raw": " Let the tiger eat the man for men have no pity.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.12461519241333008
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "8188-269290-0038",
+    "ground_truth": "SHE UTTERED HER STRANGE REMARK STANDING UP",
+    "hypothesis_raw": " She uttered a stream of luck standing up.",
+    "wer": 0.5714285714285714,
+    "transcribe_seconds": 0.12235188484191895
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7975-280084-0014",
+    "ground_truth": "AS TO THE REST OF THE AFFAIR INSIDE THE BANK I TAKE THE ACCOUNT OF A NORTHFIELD NARRATOR",
+    "hypothesis_raw": " There's to the rest of the affair inside the bank, I take the account of a Northfield narrator.",
+    "wer": 0.05555555555555555,
+    "transcribe_seconds": 0.15266776084899902
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3528-168669-0030",
+    "ground_truth": "THREE YEARS AGO MADAME DE BETHUNE A JANSENIST TURNED ORTHODOX MERELY FROM HAVING SEEN MOTHER CRUCIFIXION AT PRAYER AH",
+    "hypothesis_raw": " Three years ago, Madame DiPassoon, a gen sonnest, turned orthodox, merely from having seen mother crucifixion at prayer. Ah!",
+    "wer": 0.21052631578947367,
+    "transcribe_seconds": 0.1876847743988037
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "533-131556-0008",
+    "ground_truth": "YOU MAY GO MILICENT AND SHE'LL FOLLOW IN A WHILE MILICENT WENT",
+    "hypothesis_raw": " In my goal, I'll listen until following the while. I'll listen, print.",
+    "wer": 1.0,
+    "transcribe_seconds": 0.14683008193969727
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3528-168669-0043",
+    "ground_truth": "FATHER FAUVENT THE COMMUNITY HAS BEEN BLESSED IN MOTHER CRUCIFIXION",
+    "hypothesis_raw": " Fatherful vent, the community has been blessed in mother crucifixion.",
+    "wer": 0.2,
+    "transcribe_seconds": 0.13661599159240723
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "2414-128292-0000",
+    "ground_truth": "WHITHER HATH MY LONESOMENESS GONE SPAKE HE",
+    "hypothesis_raw": " Wither headms, myotyem gotten to me avor kicked",
+    "wer": 1.1428571428571428,
+    "transcribe_seconds": 0.6710240840911865
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3005-163399-0030",
+    "ground_truth": "THEN I SAYS TO MYSELF S'POSE TOM SAWYER COMES DOWN ON THAT BOAT",
+    "hypothesis_raw": " Then I says to myself, Suppose time sore comes down on that boat.",
+    "wer": 0.23076923076923078,
+    "transcribe_seconds": 0.13845205307006836
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "8461-258277-0011",
+    "ground_truth": "KNOWEST THOU WHITHER HE WENT",
+    "hypothesis_raw": " No was that with a he went.",
+    "wer": 1.0,
+    "transcribe_seconds": 0.11986398696899414
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "1998-29455-0039",
+    "ground_truth": "WHAT'S THAT THERE SAID DICKIE",
+    "hypothesis_raw": " or step they starts",
+    "wer": 1.0,
+    "transcribe_seconds": 0.5479388236999512
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3005-163389-0010",
+    "ground_truth": "THE CROWD WASHED BACK SUDDEN AND THEN BROKE ALL APART AND WENT TEARING OFF EVERY WHICH WAY AND BUCK HARKNESS HE HEELED IT AFTER THEM LOOKING TOLERABLE CHEAP",
+    "hypothesis_raw": " The crowd washed back, stood and then broke all apart. And went tearing off every which way. And bucked heartless he healed it after them, looking tolerable cheap.",
+    "wer": 0.14285714285714285,
+    "transcribe_seconds": 0.20125222206115723
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "4852-28312-0003",
+    "ground_truth": "HEAVY HAND HEWN BEAMS CROSSED IT FROM ONE SIDE TO THE OTHER",
+    "hypothesis_raw": " Heavy hand, you and beams crossed it from one side to the other.",
+    "wer": 0.16666666666666666,
+    "transcribe_seconds": 0.13827109336853027
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7902-96595-0003",
+    "ground_truth": "GURR GLANCED ROUND TO SEE IF THE MEN WERE LOOKING AND THEN SAID RATHER HUSKILY BUT KINDLY",
+    "hypothesis_raw": " Gerglins round to see if the men were looking and then sit rather hesculine mechanically.",
+    "wer": 0.35294117647058826,
+    "transcribe_seconds": 0.16153216361999512
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3080-5040-0002",
+    "ground_truth": "SHE HAS TOLD NOW ALL THAT WAS TOLD HER BUT VOWS SHE WILL NEVER SAY FROM WHENCE SHE HAD IT WE SHALL SEE WHETHER HER RESOLUTIONS ARE AS UNALTERABLE AS THOSE OF MY LADY TALMASH",
+    "hypothesis_raw": " She has told now all that was told her, but vows she will never say from when she had it. We shall see where the heresolutions are as unalterable as those of my Lady Talmish.",
+    "wer": 0.14285714285714285,
+    "transcribe_seconds": 0.21944499015808105
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "4350-9170-0013",
+    "ground_truth": "EVEN IF THERE WAS ONCE A TIME WHEN OWING TO THE LOW STANDARD OF MORALS AND THE DISPOSITION OF MEN TO VIOLENCE THE EXISTENCE OF AN AUTHORITY TO RESTRAIN SUCH VIOLENCE WAS AN ADVANTAGE BECAUSE THE VIOLENCE OF GOVERNMENT WAS LESS THAN THE VIOLENCE OF INDIVIDUALS ONE CANNOT BUT SEE THAT THIS ADVANTAGE COULD NOT BE LASTING",
+    "hypothesis_raw": " Even if there was one to time when, owing to the low standards of morals and the disposition of men to violence, the existence of an authority to restrain such violence was an advantage, because the violence of the government was less in the violence of individuals. And cannot but see that this advantage cannot be lasting.",
+    "wer": 0.14035087719298245,
+    "transcribe_seconds": 0.3436431884765625
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3528-168669-0108",
+    "ground_truth": "BUT YOU DO NOT UNDERSTAND ANY OF THE PEALS",
+    "hypothesis_raw": " But you do not understand any of the pills.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.12361502647399902
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "4294-14317-0003",
+    "ground_truth": "I IN MY TURN FEEL THE SAME DESIRE AND HOPE TO PLAY MY PART LIKE THEM THEREFORE MY LORD GIVE ME THE LEAVE TO GO",
+    "hypothesis_raw": " I, in my turn, feel the same desire and hope to play my part like them. Therefore, my Lord, give me the leaves to go.",
+    "wer": 0.04,
+    "transcribe_seconds": 0.17873215675354004
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "8188-269290-0015",
+    "ground_truth": "OH I WON'T LOCK YOU OUT SHE SAID BUT I MUST HAVE THE KEY",
+    "hypothesis_raw": " Oh, I won't knock you out, she said. But I must have the key.",
+    "wer": 0.07142857142857142,
+    "transcribe_seconds": 0.14710116386413574
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "4294-9934-0026",
+    "ground_truth": "THAT WILL BE SWALLOWING A TONGUE VERY FAST OR A HUNDRED SOUS VERY SLOWLY",
+    "hypothesis_raw": " That will be swallowing a tongue very fast or a hundred-sue, very slowly.",
+    "wer": 0.07142857142857142,
+    "transcribe_seconds": 0.1472330093383789
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "4198-61336-0019",
+    "ground_truth": "THUS WAS URARTU CRIPPLED AND HUMILIATED IT NEVER REGAINED ITS FORMER PRESTIGE AMONG THE NORTHERN STATES",
+    "hypothesis_raw": " Thus was heurah to crippled and humiliated. It never regained its form of prestige among the northern states.",
+    "wer": 0.25,
+    "transcribe_seconds": 0.1638798713684082
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7975-280076-0026",
+    "ground_truth": "I STAYED THERE UNTIL THE EIGHTH OF FEBRUARY EIGHTEEN SEVENTY FOUR",
+    "hypothesis_raw": " I stayed there until the 8th of February 1874.",
+    "wer": 0.36363636363636365,
+    "transcribe_seconds": 0.12708783149719238
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3997-180297-0016",
+    "ground_truth": "WE NO LONGER BELONG TO OURSELVES",
+    "hypothesis_raw": " We no longer belong to ourselves.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.11197805404663086
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "6128-63240-0013",
+    "ground_truth": "SHE WAS ATTRACTIVE AND IMPERTINENT ESPECIALLY THE LATTER",
+    "hypothesis_raw": " She was attractive and in pertinent, especially the latter.",
+    "wer": 0.25,
+    "transcribe_seconds": 0.12541890144348145
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "2414-128291-0024",
+    "ground_truth": "THOU AMIABLE ONE",
+    "hypothesis_raw": " Now, stand up one.",
+    "wer": 1.0,
+    "transcribe_seconds": 0.5607149600982666
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7018-75788-0008",
+    "ground_truth": "WE WEIGHED ANCHOR AND SHAHRAZAD PERCEIVED THE DAWN OF DAY AND CEASED SAYING HER PERMITTED SAY",
+    "hypothesis_raw": " We wait, anchor, and Shara's arm perceived the dawn of the day, and cease to say in her permitted say.",
+    "wer": 0.5,
+    "transcribe_seconds": 0.1633772850036621
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3997-180294-0022",
+    "ground_truth": "HERE ARE MY ORDERS TO NIGHT AT THE VAUDEVILLE",
+    "hypothesis_raw": " Here are my orders tonight at the Vadaville.",
+    "wer": 0.3333333333333333,
+    "transcribe_seconds": 0.1263260841369629
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7018-75788-0009",
+    "ground_truth": "WHEN IT WAS THE FIVE HUNDRED AND FIFTY NINTH NIGHT",
+    "hypothesis_raw": " When it was the 559th night.",
+    "wer": 0.5,
+    "transcribe_seconds": 0.11893367767333984
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "1998-29455-0006",
+    "ground_truth": "BUT I SHALL HAVE THEM WHILE THEY'RE ALIVE SAID DICKIE AS HE HAD SAID TO THE PAWNBROKER ABOUT THE MOONFLOWERS",
+    "hypothesis_raw": " But I shall have them where they are life so diggy, as he has said to the pond broker about the moonflowers.",
+    "wer": 0.45,
+    "transcribe_seconds": 0.16984891891479492
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "6070-86744-0003",
+    "ground_truth": "I CAN SCARCELY CREDIT IT",
+    "hypothesis_raw": " I am scared to leave credit it.",
+    "wer": 0.8,
+    "transcribe_seconds": 0.11848688125610352
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7902-96591-0018",
+    "ground_truth": "YES IF OTHER WAYS FAILED HE COULD ESCAPE UP THE CHIMNEY",
+    "hypothesis_raw": " Yes, if other ways failed he could escape up the chimney.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1288468837738037
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "7975-280076-0027",
+    "ground_truth": "I HAD NOT HEARD OF THAT WHEN I WROTE THE LETTER OF EIGHTEEN SEVENTY FOUR AND TO CORRECT ANY MISAPPREHENSION THAT MIGHT BE CREATED BY OMITTING IT I WILL SAY THAT AT THAT TIME I WAS AT NEOSHO KANSAS WITH A DROVE OF CATTLE WHICH I SOLD TO MAJOR RAY",
+    "hypothesis_raw": " I had not heard of that when I wrote the letter of 1874. And to correct any misapprehension that might be created by omitting it, I will say that at the time I was at Niocio Kansas with a drove of cattle, which I sold to Major Ray.",
+    "wer": 0.1,
+    "transcribe_seconds": 0.26105809211730957
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "6432-63722-0014",
+    "ground_truth": "BUSTED HIS HEAD IN WITH A HEAVY CANDLESTICK ONE OF A PAIR",
+    "hypothesis_raw": " Buster is head in with a heavy candlestick, one of a pair.",
+    "wer": 0.16666666666666666,
+    "transcribe_seconds": 0.1443490982055664
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "5442-32873-0009",
+    "ground_truth": "THERE DON'T MIND ME SHE SAID SHARPLY AND GETTING UP SHE LOOKED DOWN AT HER DRESS AND THIN SHOES AND SEEMING TO RECOLLECT HERSELF SHE TOOK THE CANDLE HE HAD JUST SET DOWN AND WENT SWIFTLY TO HER ROOM",
+    "hypothesis_raw": " There, don't mind me, she said sharply, and getting up she looked down at her dress and thin shoes. And seeming to recollect herself, she took the candle here just sat down and went specially to her room.",
+    "wer": 0.10256410256410256,
+    "transcribe_seconds": 0.3023519515991211
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3764-168671-0028",
+    "ground_truth": "HE HAD HARDLY THE STRENGTH TO STAMMER",
+    "hypothesis_raw": " We had hardly the strength to stomach.",
+    "wer": 0.2857142857142857,
+    "transcribe_seconds": 0.12589812278747559
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "8188-269288-0053",
+    "ground_truth": "ANNIE DID NOT MEAN TO CONFIDE IN ANYONE THAT NIGHT AND THE KINDEST THING WAS TO LEAVE HER ALONE",
+    "hypothesis_raw": " and needed not me to confine on anyone that night. And the kindest thing was to leave her alone.",
+    "wer": 0.2631578947368421,
+    "transcribe_seconds": 0.15637493133544922
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "3528-168669-0126",
+    "ground_truth": "AH THE DE EXCLAIMED FAUCHELEVENT",
+    "hypothesis_raw": " Ahh... Leader! Eh, sorry...",
+    "wer": 1.0,
+    "transcribe_seconds": 1.3681740760803223
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "4350-10919-0028",
+    "ground_truth": "NERVOUS IRRITABILITY HE SAID TO THE PRINCESS WHEN KITTY HAD LEFT THE ROOM HOWEVER I HAD FINISHED",
+    "hypothesis_raw": " nervous irritability, he said to the princess, when she had left the room. However, I had finished.",
+    "wer": 0.058823529411764705,
+    "transcribe_seconds": 0.16639399528503418
+  },
+  {
+    "model_size": "tiny",
+    "split": "test-other",
+    "utt_id": "1688-142285-0008",
+    "ground_truth": "HIS FATHER DYING IN MISERABLE CIRCUMSTANCES",
+    "hypothesis_raw": " His father dying in miserable circumstances.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.12555789947509766
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0028",
+    "ground_truth": "THEN HE TOSSED IT DOWN AND SEIZED THE NEXT",
+    "hypothesis_raw": " Then he tossed it down and seized the next.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.21206998825073242
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "7021-79730-0004",
+    "ground_truth": "THE MOTHER AS SOON AS THE CHAISE IS SO FAR TURNED THAT MARY CAN NO LONGER WATCH THE EXPRESSION OF HER COUNTENANCE GOES AWAY FROM THE DOOR WITH A SMILE OF COMPLACENCY AND SATISFACTION UPON HER FACE AT THE INGENUITY AND SUCCESS OF HER LITTLE ARTIFICE",
+    "hypothesis_raw": " The mother, as soon as the chase is so far turned that Mary can no longer watch the expression of her continents, goes away from the door with a smile of complacency and satisfaction on her face at the ingenuity and success of her little artifice.",
+    "wer": 0.06521739130434782,
+    "transcribe_seconds": 0.4230968952178955
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "4446-2273-0027",
+    "ground_truth": "WHEN SHE FINISHED ALEXANDER SHOOK HIMSELF OUT OF A REVERIE",
+    "hypothesis_raw": " when she finished Alexander shook himself out of a reverie.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.22724199295043945
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "8230-279154-0001",
+    "ground_truth": "WHAT IS CALLED PERCEPTION DIFFERS FROM SENSATION BY THE FACT THAT THE SENSATIONAL INGREDIENTS BRING UP HABITUAL ASSOCIATES IMAGES AND EXPECTATIONS OF THEIR USUAL CORRELATES ALL OF WHICH ARE SUBJECTIVELY INDISTINGUISHABLE FROM THE SENSATION",
+    "hypothesis_raw": " What is called perception differs from sensation by the fact that the sensational ingredients bring up habitual associates, images and expectations of their usual correlates, all of which are subjectively indistinguishable from the sensation.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.36132311820983887
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "237-134493-0009",
+    "ground_truth": "PLEASE WAIT FOR ME MARIE EMIL COAXED",
+    "hypothesis_raw": " Please wait for me Marie, Emil Cokes.",
+    "wer": 0.14285714285714285,
+    "transcribe_seconds": 0.21337294578552246
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "5142-36377-0005",
+    "ground_truth": "THE DOOR OPENED AGAIN WHILE I WAS STILL STUDYING THE TWO BROTHERS WITHOUT I HONESTLY CONFESS BEING VERY FAVORABLY IMPRESSED BY EITHER OF THEM",
+    "hypothesis_raw": " The door opened again while I was still studying the two brothers, without I honestly confess being very favorably impressed by either of them.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.2796752452850342
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "4446-2273-0034",
+    "ground_truth": "HE FELT A TREMOR RUN THROUGH THE SLENDER YELLOW FIGURE IN FRONT OF HIM",
+    "hypothesis_raw": " He felt a tremor run through the slender yellow figure in front of him.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.2444591522216797
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "4077-13751-0005",
+    "ground_truth": "NEVERTHELESS THE MUSTARD SEED AMONG THE SMALLEST OF ALL SEEDS HAS ATTAINED THE PROPORTIONS OF A TREE AND THE BIRDS OF THE AIR ARE NESTING IN ITS BRANCHES THE ACORN IS NOW AN OAK OFFERING PROTECTION AND THE SWEETS OF SATISFACTION TO EVERY EARNEST PILGRIM JOURNEYING ITS WAY FOR TRUTH",
+    "hypothesis_raw": " Nevertheless, the mustard seed, among the smallest of all seeds, has attained the proportions of a tree, and the birds of the air are nesting in its branches. The acorn is now in oak, offering protection, and the suites of satisfaction, to every earnest pilgrim journeying its way for truth.",
+    "wer": 0.04,
+    "transcribe_seconds": 0.527479887008667
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "7176-88083-0000",
+    "ground_truth": "ALL ABOUT HIM WAS A TUMULT OF BRIGHT AND BROKEN COLOR SCATTERED IN BROAD SPLASHES",
+    "hypothesis_raw": " All about him was a tumult of bright and broken color scattered in broad splashes.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.2540609836578369
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "8463-294828-0035",
+    "ground_truth": "AND SO IF I'D BEEN DELAYED BY A QUARTER OF AN HOUR OR EVEN LESS THE FRIGATE WOULD HAVE GONE WITHOUT ME AND I WOULD HAVE MISSED OUT ON THIS UNEARTHLY EXTRAORDINARY AND INCONCEIVABLE EXPEDITION WHOSE TRUE STORY MIGHT WELL MEET WITH SOME SKEPTICISM",
+    "hypothesis_raw": " And so, if I had been delayed by a quarter of an hour or even less, the forget would have gone without me, and I would have messed out on this unearthly, extraordinary and inconceivable expedition, whose true story might well meet with some skepticism.",
+    "wer": 0.09090909090909091,
+    "transcribe_seconds": 0.4402649402618408
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "5142-33396-0033",
+    "ground_truth": "YOU WOULD NOT EAT WITH US YOU CANNOT SAY NO TO HALF OF MY ALE I DRINK THIS TO YOUR HEALTH",
+    "hypothesis_raw": " You would not eat with us. You cannot say no to half of my ale. I'd drink this to your health.",
+    "wer": 0.047619047619047616,
+    "transcribe_seconds": 0.2800559997558594
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "4970-29093-0010",
+    "ground_truth": "HE HAD NO FRIEND WISE ENOUGH TO TELL HIM TO STEP INTO THE DORKING CONVENTION THEN IN SESSION MAKE A SKETCH OF THE MEN AND WOMEN ON THE PLATFORM AND TAKE IT TO THE EDITOR OF THE DAILY GRAPEVINE AND SEE WHAT HE COULD GET A LINE FOR IT",
+    "hypothesis_raw": " He had no friend wise enough to tell him to step into the dorking convention, then in session, make a sketch of the men and women on the platform, and take it to the editor of the Daily Grapevine, and see what he could get a line for it.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.46581292152404785
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "3729-6852-0010",
+    "ground_truth": "I NEVER HAD ANY FAMILY",
+    "hypothesis_raw": " I never had any family.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.20829105377197266
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0051",
+    "ground_truth": "AT TEA TIME THEY WERE SAD AND SILENT AND THE MEAL WENT AWAY UNTOUCHED BY ANY OF THE THREE",
+    "hypothesis_raw": " At T-time they were sad and silent and the meal went away untouched by any of the three.",
+    "wer": 0.05263157894736842,
+    "transcribe_seconds": 0.26150989532470703
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "5105-28233-0000",
+    "ground_truth": "LENGTH OF SERVICE FOURTEEN YEARS THREE MONTHS AND FIVE DAYS",
+    "hypothesis_raw": " length of service 14 years 3 months and 5 days",
+    "wer": 0.3,
+    "transcribe_seconds": 0.2178208827972412
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "5639-40744-0018",
+    "ground_truth": "THAT WOULD BE VERY WELL MY CHILD REPLIED HER FATHER IF YOUR PLAN WERE NOT LIABLE TO BE FRUSTRATED BY ORDINARY CUNNING BUT NO DOUBT THIS IMAGE HAS BEEN ALREADY MISSED BY ITS OWNER AND HE WILL HAVE SET IT DOWN FOR CERTAIN THAT IT WAS TAKEN OUT OF THE ROOM BY THE PERSON HE LOCKED UP THERE",
+    "hypothesis_raw": " That would be very well, my child, replied her father. If your plan were not liable to be frustrated by ordinary cunning, but no doubt this image had been already missed by its owner, and he will have set it down for certain that it was taken out of the room by the person he locked up there.",
+    "wer": 0.017241379310344827,
+    "transcribe_seconds": 0.5256679058074951
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "8555-292519-0009",
+    "ground_truth": "HO YE SAILS THAT SEEM TO WANDER IN DREAM FILLED MEADOWS SAY IS THE SHORE WHERE I STAND THE ONLY FIELD OF STRUGGLE OR ARE YE HIT AND BATTERED OUT THERE BY WAVES AND WIND GUSTS AS YE TACK OVER A CLASHING SEA OF WATERY ECHOES",
+    "hypothesis_raw": " Ho, ye sails that seem to wander in dream-filled meadows, say, is this shore where I stand the only field of struggle, or are ye hit and battered out there by waves and wind gusts as he tech over a clashing sea of watery echoes.",
+    "wer": 0.06521739130434782,
+    "transcribe_seconds": 0.5960347652435303
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1580-141084-0043",
+    "ground_truth": "HE PUT HIS SHOES ON THE TABLE",
+    "hypothesis_raw": " He put his shoes on the table.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.20902609825134277
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "237-134493-0007",
+    "ground_truth": "ALEXANDRA LETS YOU SLEEP LATE",
+    "hypothesis_raw": " Add Xandra that you sleep late.",
+    "wer": 0.6,
+    "transcribe_seconds": 0.21681475639343262
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "7176-92135-0029",
+    "ground_truth": "I WANT TO GET AWAY FROM IT ALL SWOONS",
+    "hypothesis_raw": " I want to get away from it all. Swoon.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.2338089942932129
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0042",
+    "ground_truth": "MY SCHOLAR HAS BEEN LEFT VERY POOR BUT HE IS HARD WORKING AND INDUSTRIOUS HE WILL DO WELL",
+    "hypothesis_raw": " My scholar has been left very poor, but he is hard working and industrious. He will do well.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.275968074798584
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "260-123288-0002",
+    "ground_truth": "THE ATMOSPHERE IS CHARGED WITH VAPOURS PERVADED WITH THE ELECTRICITY GENERATED BY THE EVAPORATION OF SALINE WATERS",
+    "hypothesis_raw": " The atmosphere is charged with vapors, pervaded with the electricity generated by the evaporation of saline waters.",
+    "wer": 0.058823529411764705,
+    "transcribe_seconds": 0.2839059829711914
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1995-1837-0015",
+    "ground_truth": "THE SQUARES OF COTTON SHARP EDGED HEAVY WERE JUST ABOUT TO BURST TO BOLLS",
+    "hypothesis_raw": " The squares of cotton sharp-edged heavy were just about to burst to bowls.",
+    "wer": 0.07142857142857142,
+    "transcribe_seconds": 0.24607276916503906
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "237-126133-0004",
+    "ground_truth": "IF SHE COULD ONLY SEE PHRONSIE FOR JUST ONE MOMENT",
+    "hypothesis_raw": " If she could only see Fronsi for just one moment.",
+    "wer": 0.1,
+    "transcribe_seconds": 0.22972416877746582
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0019",
+    "ground_truth": "ABOVE WERE THREE STUDENTS ONE ON EACH STORY",
+    "hypothesis_raw": " Above were three students one on each story.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.21199393272399902
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1284-1181-0002",
+    "ground_truth": "THE HEAD OF THE PATCHWORK GIRL WAS THE MOST CURIOUS PART OF HER",
+    "hypothesis_raw": " The head of the patchwork girl was the most curious part of her.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.23544692993164062
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "8230-279154-0015",
+    "ground_truth": "THEY MUST HAVE SOME CHARACTERISTIC WHICH MAKES US REGARD THEM AS REFERRING TO MORE OR LESS REMOTE PORTIONS OF THE PAST",
+    "hypothesis_raw": " They must have some characteristic, which makes us regard them as referring to more or less remote portions of the past.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.2736539840698242
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "6930-76324-0017",
+    "ground_truth": "OH LET HIM COME ALONG SHE URGED I DO LOVE TO SEE HIM ABOUT THAT OLD HOUSE",
+    "hypothesis_raw": " Oh, let him come along, she urged. I do love to see him about that old house.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.26733899116516113
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "672-122797-0000",
+    "ground_truth": "OUT IN THE WOODS STOOD A NICE LITTLE FIR TREE",
+    "hypothesis_raw": " out in the woods to the nice little firtry.",
+    "wer": 0.4,
+    "transcribe_seconds": 0.23682618141174316
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "672-122797-0059",
+    "ground_truth": "ONLY THAT ONE ANSWERED THE TREE",
+    "hypothesis_raw": " Only that one answered the tree.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.20323920249938965
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0043",
+    "ground_truth": "HOWEVER REMEMBERING WHAT YOU TOLD ME NAMELY THAT YOU HAD COMMENDED THE MATTER TO A HIGHER DECISION THAN OURS AND THAT YOU WERE RESOLVED TO SUBMIT WITH RESIGNATION TO THAT DECISION WHATEVER IT MIGHT BE I HOLD IT MY DUTY TO YIELD ALSO AND TO BE SILENT IT MAY BE ALL FOR THE BEST",
+    "hypothesis_raw": " However, remembering what you told me, namely that you had commended the matter to a higher decision than ours, and that you were resolved to submit with resignation to that decision whatever it might be, I hold it my duty to yield also and to be silent and may be all for the best.",
+    "wer": 0.018518518518518517,
+    "transcribe_seconds": 0.4763917922973633
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1284-1180-0014",
+    "ground_truth": "OJO HAD NEVER EATEN SUCH A FINE MEAL IN ALL HIS LIFE",
+    "hypothesis_raw": " Ojo had never eaten such a fine meal in all his life.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.24278807640075684
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0044",
+    "ground_truth": "AFTER THIS DISAPPOINTMENT I NEVER DARE RECKON WITH CERTAINTY ON THE ENJOYMENT OF A PLEASURE AGAIN IT SEEMS AS IF SOME FATALITY STOOD BETWEEN YOU AND ME",
+    "hypothesis_raw": " After this disappointment, I never dare rock in with certainty on the enjoyment of a pleasure again. It seems as if some fatalities stood between you and me.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.3215799331665039
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "61-70968-0058",
+    "ground_truth": "WILL YOU FORGIVE ME NOW",
+    "hypothesis_raw": " Will you forgive me now?",
+    "wer": 0.0,
+    "transcribe_seconds": 0.20313000679016113
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "4992-41797-0005",
+    "ground_truth": "DONE HE AIN'T DONE A THING HE'D OUGHTER SENCE HE WAS BORN",
+    "hypothesis_raw": " Done, he ain't done a thing he orders since he was born.",
+    "wer": 0.25,
+    "transcribe_seconds": 0.23807001113891602
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "5105-28241-0008",
+    "ground_truth": "THE EARTH HAS UNDOUBTEDLY ENTERED UPON A NEW ORBIT BUT SHE IS NOT INCURRING ANY PROBABLE RISK OF BEING PRECIPITATED ONTO THE SUN",
+    "hypothesis_raw": " The earth has undoubtedly entered upon a new orbit, but she is not incurring any probable risk of being precipitated onto the sun.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.28902506828308105
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "121-127105-0017",
+    "ground_truth": "IT WAS ALMOST THE TONE OF HOPE EVERYBODY WILL STAY",
+    "hypothesis_raw": " It was almost the tone of hope everybody will stay.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.22692418098449707
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "6829-68769-0052",
+    "ground_truth": "HE MIGHT HAVE HAD THAT FORGED CHECK FOR THE FACE OF IT IF HE'D BEEN SHARP",
+    "hypothesis_raw": " He might have had that forge check for the face of it if he'd been sharp",
+    "wer": 0.0625,
+    "transcribe_seconds": 0.2445979118347168
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "61-70968-0038",
+    "ground_truth": "ROBIN FITZOOTH",
+    "hypothesis_raw": " Robin Fitzsouth",
+    "wer": 0.5,
+    "transcribe_seconds": 0.19500994682312012
+  },
+  {
+    "model_size": "base",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0044",
+    "ground_truth": "I DARE NOT GO SO FAR AS THAT BUT OF THE THREE HE IS PERHAPS THE LEAST UNLIKELY",
+    "hypothesis_raw": " I dare not go so far as that, but of the three he is perhaps the least unlikely.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.2538790702819824
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7105-2330-0040",
+    "ground_truth": "THE SEAT WAS LOST AFTER ALL BY A NARROW MAJORITY",
+    "hypothesis_raw": " This seat was lost after all by a narrow maturity.",
+    "wer": 0.2,
+    "transcribe_seconds": 0.21843600273132324
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3528-168669-0063",
+    "ground_truth": "WHERE INTO THE VAULT",
+    "hypothesis_raw": " Where? Into the vault.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.1999831199645996
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "2414-159411-0013",
+    "ground_truth": "LET THE TIGER EAT THE MAN FOR MEN HAVE NO PITY",
+    "hypothesis_raw": " Let the tiger eat the man for men have no pity.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.2228102684020996
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "8188-269290-0038",
+    "ground_truth": "SHE UTTERED HER STRANGE REMARK STANDING UP",
+    "hypothesis_raw": " She uttered a stream of mark standing up.",
+    "wer": 0.5714285714285714,
+    "transcribe_seconds": 0.2171919345855713
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7975-280084-0014",
+    "ground_truth": "AS TO THE REST OF THE AFFAIR INSIDE THE BANK I TAKE THE ACCOUNT OF A NORTHFIELD NARRATOR",
+    "hypothesis_raw": " As to the rest of the affair inside the bank, I take the account of a Northfield near Rader.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.28333473205566406
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3528-168669-0030",
+    "ground_truth": "THREE YEARS AGO MADAME DE BETHUNE A JANSENIST TURNED ORTHODOX MERELY FROM HAVING SEEN MOTHER CRUCIFIXION AT PRAYER AH",
+    "hypothesis_raw": " Three years ago, Madame de Bison, a Janssonist, turned orthodox, merely from having seen Mother Crucifixion at prayer. Ah!",
+    "wer": 0.10526315789473684,
+    "transcribe_seconds": 0.3253798484802246
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "533-131556-0008",
+    "ground_truth": "YOU MAY GO MILICENT AND SHE'LL FOLLOW IN A WHILE MILICENT WENT",
+    "hypothesis_raw": " You may go, Millicent, and you'll follow in a while. Millicent Point.",
+    "wer": 0.3333333333333333,
+    "transcribe_seconds": 0.2707650661468506
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3528-168669-0043",
+    "ground_truth": "FATHER FAUVENT THE COMMUNITY HAS BEEN BLESSED IN MOTHER CRUCIFIXION",
+    "hypothesis_raw": " Father Fulvent, the community has been blessed in Mother Chris Fiction.",
+    "wer": 0.3,
+    "transcribe_seconds": 0.24692106246948242
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "2414-128292-0000",
+    "ground_truth": "WHITHER HATH MY LONESOMENESS GONE SPAKE HE",
+    "hypothesis_raw": " Wither hat my loneliness cause, speak he",
+    "wer": 0.7142857142857143,
+    "transcribe_seconds": 0.22144293785095215
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3005-163399-0030",
+    "ground_truth": "THEN I SAYS TO MYSELF S'POSE TOM SAWYER COMES DOWN ON THAT BOAT",
+    "hypothesis_raw": " then I says to myself, Sposedime Sora comes down on that boat.",
+    "wer": 0.23076923076923078,
+    "transcribe_seconds": 0.2620267868041992
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "8461-258277-0011",
+    "ground_truth": "KNOWEST THOU WHITHER HE WENT",
+    "hypothesis_raw": " No, it's not wither he went.",
+    "wer": 0.8,
+    "transcribe_seconds": 0.24481415748596191
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "1998-29455-0039",
+    "ground_truth": "WHAT'S THAT THERE SAID DICKIE",
+    "hypothesis_raw": " or is that the sticky?",
+    "wer": 1.0,
+    "transcribe_seconds": 0.20006990432739258
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3005-163389-0010",
+    "ground_truth": "THE CROWD WASHED BACK SUDDEN AND THEN BROKE ALL APART AND WENT TEARING OFF EVERY WHICH WAY AND BUCK HARKNESS HE HEELED IT AFTER THEM LOOKING TOLERABLE CHEAP",
+    "hypothesis_raw": " The crowd washed back sudden and then broke all apart and went tearing off every which way and buck hearted us. He healed it after them looking tolerable cheap.",
+    "wer": 0.10714285714285714,
+    "transcribe_seconds": 0.31400322914123535
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "4852-28312-0003",
+    "ground_truth": "HEAVY HAND HEWN BEAMS CROSSED IT FROM ONE SIDE TO THE OTHER",
+    "hypothesis_raw": " Heavy hand you and beams crossed it from one side to the other.",
+    "wer": 0.16666666666666666,
+    "transcribe_seconds": 0.2331552505493164
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7902-96595-0003",
+    "ground_truth": "GURR GLANCED ROUND TO SEE IF THE MEN WERE LOOKING AND THEN SAID RATHER HUSKILY BUT KINDLY",
+    "hypothesis_raw": " Gerglance drowned to see if the men were looking and then said that they're huskily beconily.",
+    "wer": 0.4117647058823529,
+    "transcribe_seconds": 0.2776970863342285
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3080-5040-0002",
+    "ground_truth": "SHE HAS TOLD NOW ALL THAT WAS TOLD HER BUT VOWS SHE WILL NEVER SAY FROM WHENCE SHE HAD IT WE SHALL SEE WHETHER HER RESOLUTIONS ARE AS UNALTERABLE AS THOSE OF MY LADY TALMASH",
+    "hypothesis_raw": " She has told now all that was told her, but vows she will never say from when she had it. We shall see whether her resolutions are as unalterable as those of my lady Talmash.",
+    "wer": 0.02857142857142857,
+    "transcribe_seconds": 0.3721961975097656
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "4350-9170-0013",
+    "ground_truth": "EVEN IF THERE WAS ONCE A TIME WHEN OWING TO THE LOW STANDARD OF MORALS AND THE DISPOSITION OF MEN TO VIOLENCE THE EXISTENCE OF AN AUTHORITY TO RESTRAIN SUCH VIOLENCE WAS AN ADVANTAGE BECAUSE THE VIOLENCE OF GOVERNMENT WAS LESS THAN THE VIOLENCE OF INDIVIDUALS ONE CANNOT BUT SEE THAT THIS ADVANTAGE COULD NOT BE LASTING",
+    "hypothesis_raw": " Even if there was once a time when, owing to the low standards of morals and the disposition of men to violence, the existence of an authority to restrain such violence was an advantage, because the violence of the government was less than the violence of individuals. One cannot but see that this advantage could not be lasting.",
+    "wer": 0.03508771929824561,
+    "transcribe_seconds": 0.5386769771575928
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3528-168669-0108",
+    "ground_truth": "BUT YOU DO NOT UNDERSTAND ANY OF THE PEALS",
+    "hypothesis_raw": " But you do not understand any of the pills.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.22652697563171387
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "4294-14317-0003",
+    "ground_truth": "I IN MY TURN FEEL THE SAME DESIRE AND HOPE TO PLAY MY PART LIKE THEM THEREFORE MY LORD GIVE ME THE LEAVE TO GO",
+    "hypothesis_raw": " I, in my turn, feel the same desire and hope to play my part like them. Therefore, my Lord, give me the leave to go.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.312183141708374
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "8188-269290-0015",
+    "ground_truth": "OH I WON'T LOCK YOU OUT SHE SAID BUT I MUST HAVE THE KEY",
+    "hypothesis_raw": " Oh, I won't lock you out, she said. But I must have the key.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.26116299629211426
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "4294-9934-0026",
+    "ground_truth": "THAT WILL BE SWALLOWING A TONGUE VERY FAST OR A HUNDRED SOUS VERY SLOWLY",
+    "hypothesis_raw": " That will be swallowing a tongue very fast or a hundred-sew very slowly.",
+    "wer": 0.07142857142857142,
+    "transcribe_seconds": 0.255479097366333
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "4198-61336-0019",
+    "ground_truth": "THUS WAS URARTU CRIPPLED AND HUMILIATED IT NEVER REGAINED ITS FORMER PRESTIGE AMONG THE NORTHERN STATES",
+    "hypothesis_raw": " Thus was Eurotu crippled and humiliated. It never regained its form of prestige among the Northern states.",
+    "wer": 0.1875,
+    "transcribe_seconds": 0.2785451412200928
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7975-280076-0026",
+    "ground_truth": "I STAYED THERE UNTIL THE EIGHTH OF FEBRUARY EIGHTEEN SEVENTY FOUR",
+    "hypothesis_raw": " I stayed there until the 8th of February, 1874.",
+    "wer": 0.36363636363636365,
+    "transcribe_seconds": 0.23198628425598145
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3997-180297-0016",
+    "ground_truth": "WE NO LONGER BELONG TO OURSELVES",
+    "hypothesis_raw": " We no longer belong to ourselves.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.20183300971984863
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "6128-63240-0013",
+    "ground_truth": "SHE WAS ATTRACTIVE AND IMPERTINENT ESPECIALLY THE LATTER",
+    "hypothesis_raw": " She was attractive and impertinent, especially the latter.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.22414207458496094
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "2414-128291-0024",
+    "ground_truth": "THOU AMIABLE ONE",
+    "hypothesis_raw": " Theo Amiable One",
+    "wer": 0.3333333333333333,
+    "transcribe_seconds": 0.19550585746765137
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7018-75788-0008",
+    "ground_truth": "WE WEIGHED ANCHOR AND SHAHRAZAD PERCEIVED THE DAWN OF DAY AND CEASED SAYING HER PERMITTED SAY",
+    "hypothesis_raw": " We weighed anchor and Sharazard perceived the dawn of the day and ceased to say in her permitted say.",
+    "wer": 0.3125,
+    "transcribe_seconds": 0.2684929370880127
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3997-180294-0022",
+    "ground_truth": "HERE ARE MY ORDERS TO NIGHT AT THE VAUDEVILLE",
+    "hypothesis_raw": " Here are my orders, tonight at the Valleville.",
+    "wer": 0.3333333333333333,
+    "transcribe_seconds": 0.22919225692749023
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7018-75788-0009",
+    "ground_truth": "WHEN IT WAS THE FIVE HUNDRED AND FIFTY NINTH NIGHT",
+    "hypothesis_raw": " when it was the 559th night.",
+    "wer": 0.5,
+    "transcribe_seconds": 0.21356916427612305
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "1998-29455-0006",
+    "ground_truth": "BUT I SHALL HAVE THEM WHILE THEY'RE ALIVE SAID DICKIE AS HE HAD SAID TO THE PAWNBROKER ABOUT THE MOONFLOWERS",
+    "hypothesis_raw": " But I shall have them while they are live, Setici, as you'd said to the pond broker about the moonflowers.",
+    "wer": 0.4,
+    "transcribe_seconds": 0.2976057529449463
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "6070-86744-0003",
+    "ground_truth": "I CAN SCARCELY CREDIT IT",
+    "hypothesis_raw": " I can scarcely credit it.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.20752692222595215
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7902-96591-0018",
+    "ground_truth": "YES IF OTHER WAYS FAILED HE COULD ESCAPE UP THE CHIMNEY",
+    "hypothesis_raw": " Yes, if other ways failed he could escape up the chimney.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.23226094245910645
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "7975-280076-0027",
+    "ground_truth": "I HAD NOT HEARD OF THAT WHEN I WROTE THE LETTER OF EIGHTEEN SEVENTY FOUR AND TO CORRECT ANY MISAPPREHENSION THAT MIGHT BE CREATED BY OMITTING IT I WILL SAY THAT AT THAT TIME I WAS AT NEOSHO KANSAS WITH A DROVE OF CATTLE WHICH I SOLD TO MAJOR RAY",
+    "hypothesis_raw": " I had not heard of that when I wrote the letter of 1874, and to correct any misapprehension that might be created by omitting it, I will say that at the time I was at the Osho Kansas with a drove of cattle which I sold to Major Ray.",
+    "wer": 0.12,
+    "transcribe_seconds": 0.4697129726409912
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "6432-63722-0014",
+    "ground_truth": "BUSTED HIS HEAD IN WITH A HEAVY CANDLESTICK ONE OF A PAIR",
+    "hypothesis_raw": " Mustard is head in with a heavy candle stick. Want to prepare.",
+    "wer": 0.5833333333333334,
+    "transcribe_seconds": 0.25736093521118164
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "5442-32873-0009",
+    "ground_truth": "THERE DON'T MIND ME SHE SAID SHARPLY AND GETTING UP SHE LOOKED DOWN AT HER DRESS AND THIN SHOES AND SEEMING TO RECOLLECT HERSELF SHE TOOK THE CANDLE HE HAD JUST SET DOWN AND WENT SWIFTLY TO HER ROOM",
+    "hypothesis_raw": " There, don't mind me, she said sharply, and getting up she looked down at her dress and thin shoes. And seeming to recollect herself, she took the candle here just sat down and went speckly to her room.",
+    "wer": 0.10256410256410256,
+    "transcribe_seconds": 0.43645405769348145
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3764-168671-0028",
+    "ground_truth": "HE HAD HARDLY THE STRENGTH TO STAMMER",
+    "hypothesis_raw": " He had hardly the strength to stomach.",
+    "wer": 0.14285714285714285,
+    "transcribe_seconds": 0.21685194969177246
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "8188-269288-0053",
+    "ground_truth": "ANNIE DID NOT MEAN TO CONFIDE IN ANYONE THAT NIGHT AND THE KINDEST THING WAS TO LEAVE HER ALONE",
+    "hypothesis_raw": " and he did not meet the confinement anyone that night. And the kindest thing was to leave her alone.",
+    "wer": 0.3157894736842105,
+    "transcribe_seconds": 0.27669620513916016
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "3528-168669-0126",
+    "ground_truth": "AH THE DE EXCLAIMED FAUCHELEVENT",
+    "hypothesis_raw": " Aah neither exclaimed fresh hold on",
+    "wer": 1.2,
+    "transcribe_seconds": 1.1726982593536377
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "4350-10919-0028",
+    "ground_truth": "NERVOUS IRRITABILITY HE SAID TO THE PRINCESS WHEN KITTY HAD LEFT THE ROOM HOWEVER I HAD FINISHED",
+    "hypothesis_raw": " Noobice irritability. He said to the princess, when he had left the room. However, I had finished...",
+    "wer": 0.11764705882352941,
+    "transcribe_seconds": 0.2973291873931885
+  },
+  {
+    "model_size": "base",
+    "split": "test-other",
+    "utt_id": "1688-142285-0008",
+    "ground_truth": "HIS FATHER DYING IN MISERABLE CIRCUMSTANCES",
+    "hypothesis_raw": " His father dying in miserable circumstances.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.21304774284362793
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0028",
+    "ground_truth": "THEN HE TOSSED IT DOWN AND SEIZED THE NEXT",
+    "hypothesis_raw": " Then he tossed it down and seized the next.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6074337959289551
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "7021-79730-0004",
+    "ground_truth": "THE MOTHER AS SOON AS THE CHAISE IS SO FAR TURNED THAT MARY CAN NO LONGER WATCH THE EXPRESSION OF HER COUNTENANCE GOES AWAY FROM THE DOOR WITH A SMILE OF COMPLACENCY AND SATISFACTION UPON HER FACE AT THE INGENUITY AND SUCCESS OF HER LITTLE ARTIFICE",
+    "hypothesis_raw": " The mother, as soon as the chase is so far turned that Mary can no longer watch the expression of her continents, goes away from the door with a smile of complacency and satisfaction on her face at the ingenuity and success of her little artifice.",
+    "wer": 0.06521739130434782,
+    "transcribe_seconds": 1.158721923828125
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "4446-2273-0027",
+    "ground_truth": "WHEN SHE FINISHED ALEXANDER SHOOK HIMSELF OUT OF A REVERIE",
+    "hypothesis_raw": " When she finished, Alexander shook himself out of a reverie.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.608659029006958
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "8230-279154-0001",
+    "ground_truth": "WHAT IS CALLED PERCEPTION DIFFERS FROM SENSATION BY THE FACT THAT THE SENSATIONAL INGREDIENTS BRING UP HABITUAL ASSOCIATES IMAGES AND EXPECTATIONS OF THEIR USUAL CORRELATES ALL OF WHICH ARE SUBJECTIVELY INDISTINGUISHABLE FROM THE SENSATION",
+    "hypothesis_raw": " What is called perception differs from sensation by the fact that the sensational ingredients bring up habitual associates, images and expectations of their usual correlates, all of which are subjectively indistinguishable from the sensation.",
+    "wer": 0.0,
+    "transcribe_seconds": 1.011003017425537
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "237-134493-0009",
+    "ground_truth": "PLEASE WAIT FOR ME MARIE EMIL COAXED",
+    "hypothesis_raw": " Please wait for me Marie. Amyl Coxe.",
+    "wer": 0.2857142857142857,
+    "transcribe_seconds": 0.6189250946044922
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "5142-36377-0005",
+    "ground_truth": "THE DOOR OPENED AGAIN WHILE I WAS STILL STUDYING THE TWO BROTHERS WITHOUT I HONESTLY CONFESS BEING VERY FAVORABLY IMPRESSED BY EITHER OF THEM",
+    "hypothesis_raw": " The door opened again while I was still studying the two brothers. Without, I honestly confess, being very favorably impressed by either of them.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.8372869491577148
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "4446-2273-0034",
+    "ground_truth": "HE FELT A TREMOR RUN THROUGH THE SLENDER YELLOW FIGURE IN FRONT OF HIM",
+    "hypothesis_raw": " He felt a tremor run through the slender yellow figure in front of him.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6601169109344482
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "4077-13751-0005",
+    "ground_truth": "NEVERTHELESS THE MUSTARD SEED AMONG THE SMALLEST OF ALL SEEDS HAS ATTAINED THE PROPORTIONS OF A TREE AND THE BIRDS OF THE AIR ARE NESTING IN ITS BRANCHES THE ACORN IS NOW AN OAK OFFERING PROTECTION AND THE SWEETS OF SATISFACTION TO EVERY EARNEST PILGRIM JOURNEYING ITS WAY FOR TRUTH",
+    "hypothesis_raw": " Nevertheless, the mustard seed, among the smallest of all seeds, has attained the proportions of a tree, and the birds of the air are nesting in its branches. The acorn is now in oak, offering protection and the sweets of satisfaction to every earnest pilgrim journeying its way for truth.",
+    "wer": 0.02,
+    "transcribe_seconds": 1.271245002746582
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "7176-88083-0000",
+    "ground_truth": "ALL ABOUT HIM WAS A TUMULT OF BRIGHT AND BROKEN COLOR SCATTERED IN BROAD SPLASHES",
+    "hypothesis_raw": " All about him was a tumult of bright and broken color, scattered and broad splashes.",
+    "wer": 0.06666666666666667,
+    "transcribe_seconds": 0.6757228374481201
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "8463-294828-0035",
+    "ground_truth": "AND SO IF I'D BEEN DELAYED BY A QUARTER OF AN HOUR OR EVEN LESS THE FRIGATE WOULD HAVE GONE WITHOUT ME AND I WOULD HAVE MISSED OUT ON THIS UNEARTHLY EXTRAORDINARY AND INCONCEIVABLE EXPEDITION WHOSE TRUE STORY MIGHT WELL MEET WITH SOME SKEPTICISM",
+    "hypothesis_raw": " And so, if I had been delayed by a quarter of an hour or even less, the frigate would have gone without me, and I would have missed out on this unearthly, extraordinary, and inconceivable expedition, whose true story might well meet with some skepticism.",
+    "wer": 0.045454545454545456,
+    "transcribe_seconds": 1.227937936782837
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "5142-33396-0033",
+    "ground_truth": "YOU WOULD NOT EAT WITH US YOU CANNOT SAY NO TO HALF OF MY ALE I DRINK THIS TO YOUR HEALTH",
+    "hypothesis_raw": " You would not eat with us. You cannot say no to half of my ale. I drink this to your health.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.7401678562164307
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "4970-29093-0010",
+    "ground_truth": "HE HAD NO FRIEND WISE ENOUGH TO TELL HIM TO STEP INTO THE DORKING CONVENTION THEN IN SESSION MAKE A SKETCH OF THE MEN AND WOMEN ON THE PLATFORM AND TAKE IT TO THE EDITOR OF THE DAILY GRAPEVINE AND SEE WHAT HE COULD GET A LINE FOR IT",
+    "hypothesis_raw": " He had no friend wise enough to tell him to step into the dorking convention, then in session, make a sketch of the men and women on the platform, and take it to the editor of the Daily Grapevine and see what he could get a line for it.",
+    "wer": 0.0,
+    "transcribe_seconds": 1.2150988578796387
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "3729-6852-0010",
+    "ground_truth": "I NEVER HAD ANY FAMILY",
+    "hypothesis_raw": " I never had any family.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5176699161529541
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0051",
+    "ground_truth": "AT TEA TIME THEY WERE SAD AND SILENT AND THE MEAL WENT AWAY UNTOUCHED BY ANY OF THE THREE",
+    "hypothesis_raw": " At tea time they were sad and silent and the meal went away untouched by any of the three.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.7086062431335449
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "5105-28233-0000",
+    "ground_truth": "LENGTH OF SERVICE FOURTEEN YEARS THREE MONTHS AND FIVE DAYS",
+    "hypothesis_raw": " Length of service, 14 years, 3 months, and 5 days.",
+    "wer": 0.3,
+    "transcribe_seconds": 0.6591479778289795
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "5639-40744-0018",
+    "ground_truth": "THAT WOULD BE VERY WELL MY CHILD REPLIED HER FATHER IF YOUR PLAN WERE NOT LIABLE TO BE FRUSTRATED BY ORDINARY CUNNING BUT NO DOUBT THIS IMAGE HAS BEEN ALREADY MISSED BY ITS OWNER AND HE WILL HAVE SET IT DOWN FOR CERTAIN THAT IT WAS TAKEN OUT OF THE ROOM BY THE PERSON HE LOCKED UP THERE",
+    "hypothesis_raw": " That would be very well, my child, replied her father, if your plan were not liable to be frustrated by ordinary cunning. But no doubt this image had been already missed by its owner, and he will have set it down for certain that it was taken out of the room by the person he locked up there.",
+    "wer": 0.017241379310344827,
+    "transcribe_seconds": 1.306584119796753
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "8555-292519-0009",
+    "ground_truth": "HO YE SAILS THAT SEEM TO WANDER IN DREAM FILLED MEADOWS SAY IS THE SHORE WHERE I STAND THE ONLY FIELD OF STRUGGLE OR ARE YE HIT AND BATTERED OUT THERE BY WAVES AND WIND GUSTS AS YE TACK OVER A CLASHING SEA OF WATERY ECHOES",
+    "hypothesis_raw": " Ho! ye sales that seem to wander in dream-filled meadows, Say, is this shore where I stand the only field of struggle, Or are ye hit and battered out there by waves and wind gusts As ye tech over a clashing sea of watery echoes?",
+    "wer": 0.06521739130434782,
+    "transcribe_seconds": 1.2101969718933105
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1580-141084-0043",
+    "ground_truth": "HE PUT HIS SHOES ON THE TABLE",
+    "hypothesis_raw": " He put his shoes on the table.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.547083854675293
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "237-134493-0007",
+    "ground_truth": "ALEXANDRA LETS YOU SLEEP LATE",
+    "hypothesis_raw": " Alexandra lets you sleep late.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5417511463165283
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "7176-92135-0029",
+    "ground_truth": "I WANT TO GET AWAY FROM IT ALL SWOONS",
+    "hypothesis_raw": " I want to get away from it all. Swoon.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.6024389266967773
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0042",
+    "ground_truth": "MY SCHOLAR HAS BEEN LEFT VERY POOR BUT HE IS HARD WORKING AND INDUSTRIOUS HE WILL DO WELL",
+    "hypothesis_raw": " My scholar has been left very poor, but he is hardworking and industrious. He will do well.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.7417280673980713
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "260-123288-0002",
+    "ground_truth": "THE ATMOSPHERE IS CHARGED WITH VAPOURS PERVADED WITH THE ELECTRICITY GENERATED BY THE EVAPORATION OF SALINE WATERS",
+    "hypothesis_raw": " The atmosphere is charged with vapors pervaded with the electricity generated by the evaporation of saline waters.",
+    "wer": 0.058823529411764705,
+    "transcribe_seconds": 0.7565548419952393
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1995-1837-0015",
+    "ground_truth": "THE SQUARES OF COTTON SHARP EDGED HEAVY WERE JUST ABOUT TO BURST TO BOLLS",
+    "hypothesis_raw": " The squares of cotton sharp-edged heavy were just about to burst to bowls.",
+    "wer": 0.07142857142857142,
+    "transcribe_seconds": 0.699160099029541
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "237-126133-0004",
+    "ground_truth": "IF SHE COULD ONLY SEE PHRONSIE FOR JUST ONE MOMENT",
+    "hypothesis_raw": " if she could only see Franzi for just one moment.",
+    "wer": 0.1,
+    "transcribe_seconds": 0.6259357929229736
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0019",
+    "ground_truth": "ABOVE WERE THREE STUDENTS ONE ON EACH STORY",
+    "hypothesis_raw": " Above were three students, one on each story.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6534051895141602
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1284-1181-0002",
+    "ground_truth": "THE HEAD OF THE PATCHWORK GIRL WAS THE MOST CURIOUS PART OF HER",
+    "hypothesis_raw": " The head of the patchwork girl was the most curious part of her.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6943118572235107
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "8230-279154-0015",
+    "ground_truth": "THEY MUST HAVE SOME CHARACTERISTIC WHICH MAKES US REGARD THEM AS REFERRING TO MORE OR LESS REMOTE PORTIONS OF THE PAST",
+    "hypothesis_raw": " They must have some characteristic, which makes us regard them as referring to more or less remote portions of the past.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.7565560340881348
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "6930-76324-0017",
+    "ground_truth": "OH LET HIM COME ALONG SHE URGED I DO LOVE TO SEE HIM ABOUT THAT OLD HOUSE",
+    "hypothesis_raw": " Oh, let him come along, she urged. I do love to see him about that old house.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.7390689849853516
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "672-122797-0000",
+    "ground_truth": "OUT IN THE WOODS STOOD A NICE LITTLE FIR TREE",
+    "hypothesis_raw": " Out in the woods stood a nice little fir tree.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5982871055603027
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "672-122797-0059",
+    "ground_truth": "ONLY THAT ONE ANSWERED THE TREE",
+    "hypothesis_raw": " Only that one answered the tree.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5420289039611816
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0043",
+    "ground_truth": "HOWEVER REMEMBERING WHAT YOU TOLD ME NAMELY THAT YOU HAD COMMENDED THE MATTER TO A HIGHER DECISION THAN OURS AND THAT YOU WERE RESOLVED TO SUBMIT WITH RESIGNATION TO THAT DECISION WHATEVER IT MIGHT BE I HOLD IT MY DUTY TO YIELD ALSO AND TO BE SILENT IT MAY BE ALL FOR THE BEST",
+    "hypothesis_raw": " However, remembering what you told me, namely that you had commended the matter to a higher decision than ours, and that you were resolved to submit with resignation to that decision, whatever it might be, I hold it my duty to yield also and to be silent, and may be all for the best.",
+    "wer": 0.018518518518518517,
+    "transcribe_seconds": 1.2787132263183594
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1284-1180-0014",
+    "ground_truth": "OJO HAD NEVER EATEN SUCH A FINE MEAL IN ALL HIS LIFE",
+    "hypothesis_raw": " Ojo had never eaten such a fine meal in all his life.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6137638092041016
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "3575-170457-0044",
+    "ground_truth": "AFTER THIS DISAPPOINTMENT I NEVER DARE RECKON WITH CERTAINTY ON THE ENJOYMENT OF A PLEASURE AGAIN IT SEEMS AS IF SOME FATALITY STOOD BETWEEN YOU AND ME",
+    "hypothesis_raw": " After this disappointment, I never dare reckon with certainty on the enjoyment of a pleasure again. It seems as if some fatality stood between you and me.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.8877050876617432
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "61-70968-0058",
+    "ground_truth": "WILL YOU FORGIVE ME NOW",
+    "hypothesis_raw": " Will you forgive me now?",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5448122024536133
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "4992-41797-0005",
+    "ground_truth": "DONE HE AIN'T DONE A THING HE'D OUGHTER SENCE HE WAS BORN",
+    "hypothesis_raw": " Done. He ain't done a thing he ordered since he was born.",
+    "wer": 0.25,
+    "transcribe_seconds": 0.6361789703369141
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "5105-28241-0008",
+    "ground_truth": "THE EARTH HAS UNDOUBTEDLY ENTERED UPON A NEW ORBIT BUT SHE IS NOT INCURRING ANY PROBABLE RISK OF BEING PRECIPITATED ONTO THE SUN",
+    "hypothesis_raw": " The Earth has undoubtedly entered upon a new orbit, but she is not incurring any probable risk of being precipitated onto the Sun.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.8158490657806396
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "121-127105-0017",
+    "ground_truth": "IT WAS ALMOST THE TONE OF HOPE EVERYBODY WILL STAY",
+    "hypothesis_raw": " It was almost the tone of hope. Everybody will stay.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6083540916442871
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "6829-68769-0052",
+    "ground_truth": "HE MIGHT HAVE HAD THAT FORGED CHECK FOR THE FACE OF IT IF HE'D BEEN SHARP",
+    "hypothesis_raw": " He might have had that forged check for the face of it if he'd been sharp",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6617419719696045
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "61-70968-0038",
+    "ground_truth": "ROBIN FITZOOTH",
+    "hypothesis_raw": " Robin Fitzsuth",
+    "wer": 0.5,
+    "transcribe_seconds": 0.5207500457763672
+  },
+  {
+    "model_size": "small",
+    "split": "test-clean",
+    "utt_id": "1580-141083-0044",
+    "ground_truth": "I DARE NOT GO SO FAR AS THAT BUT OF THE THREE HE IS PERHAPS THE LEAST UNLIKELY",
+    "hypothesis_raw": " I dare not go so far as that, but of the three, he is perhaps the least unlikely.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.7038159370422363
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7105-2330-0040",
+    "ground_truth": "THE SEAT WAS LOST AFTER ALL BY A NARROW MAJORITY",
+    "hypothesis_raw": " This seat was lost after all by a narrow maturity.",
+    "wer": 0.2,
+    "transcribe_seconds": 0.5918090343475342
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3528-168669-0063",
+    "ground_truth": "WHERE INTO THE VAULT",
+    "hypothesis_raw": " Where? Into the vault.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5520319938659668
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "2414-159411-0013",
+    "ground_truth": "LET THE TIGER EAT THE MAN FOR MEN HAVE NO PITY",
+    "hypothesis_raw": " Let the tiger eat the man, for men have no pity.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6144669055938721
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "8188-269290-0038",
+    "ground_truth": "SHE UTTERED HER STRANGE REMARK STANDING UP",
+    "hypothesis_raw": " She uttered her streamer mark, standing up.",
+    "wer": 0.2857142857142857,
+    "transcribe_seconds": 0.593019962310791
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7975-280084-0014",
+    "ground_truth": "AS TO THE REST OF THE AFFAIR INSIDE THE BANK I TAKE THE ACCOUNT OF A NORTHFIELD NARRATOR",
+    "hypothesis_raw": " As to the rest of the affair inside the bank, I take the account of a Northfield narrator.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.71852707862854
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3528-168669-0030",
+    "ground_truth": "THREE YEARS AGO MADAME DE BETHUNE A JANSENIST TURNED ORTHODOX MERELY FROM HAVING SEEN MOTHER CRUCIFIXION AT PRAYER AH",
+    "hypothesis_raw": " Three years ago, Madame de Bassoon, a Jensenist, turned Orthodox merely from having seen Mother Crucifixion at prayer. Ah!",
+    "wer": 0.10526315789473684,
+    "transcribe_seconds": 0.8833441734313965
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "533-131556-0008",
+    "ground_truth": "YOU MAY GO MILICENT AND SHE'LL FOLLOW IN A WHILE MILICENT WENT",
+    "hypothesis_raw": " You may go, Millicent, until following a while. Millicent went.",
+    "wer": 0.5,
+    "transcribe_seconds": 0.7131772041320801
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3528-168669-0043",
+    "ground_truth": "FATHER FAUVENT THE COMMUNITY HAS BEEN BLESSED IN MOTHER CRUCIFIXION",
+    "hypothesis_raw": " Father Fulvent, the community has been blessed in Mother crucifixion.",
+    "wer": 0.1,
+    "transcribe_seconds": 0.6773819923400879
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "2414-128292-0000",
+    "ground_truth": "WHITHER HATH MY LONESOMENESS GONE SPAKE HE",
+    "hypothesis_raw": " With her hat, my lonesomeness gone, specky.",
+    "wer": 0.7142857142857143,
+    "transcribe_seconds": 0.6468331813812256
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3005-163399-0030",
+    "ground_truth": "THEN I SAYS TO MYSELF S'POSE TOM SAWYER COMES DOWN ON THAT BOAT",
+    "hypothesis_raw": " Then I says to myself, Suppose time's over, it comes down on that boat.",
+    "wer": 0.3076923076923077,
+    "transcribe_seconds": 0.7042109966278076
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "8461-258277-0011",
+    "ground_truth": "KNOWEST THOU WHITHER HE WENT",
+    "hypothesis_raw": " No was thou wither he went.",
+    "wer": 0.6,
+    "transcribe_seconds": 0.5635278224945068
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "1998-29455-0039",
+    "ground_truth": "WHAT'S THAT THERE SAID DICKIE",
+    "hypothesis_raw": " What's that there, Satyaki?",
+    "wer": 0.4,
+    "transcribe_seconds": 0.5674128532409668
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3005-163389-0010",
+    "ground_truth": "THE CROWD WASHED BACK SUDDEN AND THEN BROKE ALL APART AND WENT TEARING OFF EVERY WHICH WAY AND BUCK HARKNESS HE HEELED IT AFTER THEM LOOKING TOLERABLE CHEAP",
+    "hypothesis_raw": " The crowd washed back sudden and then broke all apart and went tearing off every which way and Buck Harkness he healed it after them looking tolerable cheap",
+    "wer": 0.03571428571428571,
+    "transcribe_seconds": 0.853410005569458
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "4852-28312-0003",
+    "ground_truth": "HEAVY HAND HEWN BEAMS CROSSED IT FROM ONE SIDE TO THE OTHER",
+    "hypothesis_raw": " Heavy hand you and beams crossed it from one side to the other.",
+    "wer": 0.16666666666666666,
+    "transcribe_seconds": 0.6302320957183838
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7902-96595-0003",
+    "ground_truth": "GURR GLANCED ROUND TO SEE IF THE MEN WERE LOOKING AND THEN SAID RATHER HUSKILY BUT KINDLY",
+    "hypothesis_raw": " Gerg glanced around to see if the men were looking, and then said whether Husky would be kindly.",
+    "wer": 0.35294117647058826,
+    "transcribe_seconds": 0.7506020069122314
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3080-5040-0002",
+    "ground_truth": "SHE HAS TOLD NOW ALL THAT WAS TOLD HER BUT VOWS SHE WILL NEVER SAY FROM WHENCE SHE HAD IT WE SHALL SEE WHETHER HER RESOLUTIONS ARE AS UNALTERABLE AS THOSE OF MY LADY TALMASH",
+    "hypothesis_raw": " She has told now all that was told her, but vows she will never say from whence she had it. We shall see whether her resolutions are as unalterable as those of my Lady Talmash.",
+    "wer": 0.0,
+    "transcribe_seconds": 1.0662457942962646
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "4350-9170-0013",
+    "ground_truth": "EVEN IF THERE WAS ONCE A TIME WHEN OWING TO THE LOW STANDARD OF MORALS AND THE DISPOSITION OF MEN TO VIOLENCE THE EXISTENCE OF AN AUTHORITY TO RESTRAIN SUCH VIOLENCE WAS AN ADVANTAGE BECAUSE THE VIOLENCE OF GOVERNMENT WAS LESS THAN THE VIOLENCE OF INDIVIDUALS ONE CANNOT BUT SEE THAT THIS ADVANTAGE COULD NOT BE LASTING",
+    "hypothesis_raw": " Even if there was once a time when, owing to the low standards of morals and the disposition of men to violence, the existence of an authority to restrain such violence was an advantage, because the violence of the government was less than the violence of individuals. One cannot but see that this advantage could not be lasting.",
+    "wer": 0.03508771929824561,
+    "transcribe_seconds": 1.3134877681732178
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3528-168669-0108",
+    "ground_truth": "BUT YOU DO NOT UNDERSTAND ANY OF THE PEALS",
+    "hypothesis_raw": " but you do not understand any of the appeals.",
+    "wer": 0.1111111111111111,
+    "transcribe_seconds": 0.5721659660339355
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "4294-14317-0003",
+    "ground_truth": "I IN MY TURN FEEL THE SAME DESIRE AND HOPE TO PLAY MY PART LIKE THEM THEREFORE MY LORD GIVE ME THE LEAVE TO GO",
+    "hypothesis_raw": " I, in my turn, feel the same desire and hope to play my part like them. Therefore, my Lord, give me the leave to go.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.8581290245056152
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "8188-269290-0015",
+    "ground_truth": "OH I WON'T LOCK YOU OUT SHE SAID BUT I MUST HAVE THE KEY",
+    "hypothesis_raw": " Oh, I won't lock you out, she said. But I must have the key.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.71639084815979
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "4294-9934-0026",
+    "ground_truth": "THAT WILL BE SWALLOWING A TONGUE VERY FAST OR A HUNDRED SOUS VERY SLOWLY",
+    "hypothesis_raw": " That will be swallowing a tongue very fast, or a hundred Sue very slowly.",
+    "wer": 0.07142857142857142,
+    "transcribe_seconds": 0.6863019466400146
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "4198-61336-0019",
+    "ground_truth": "THUS WAS URARTU CRIPPLED AND HUMILIATED IT NEVER REGAINED ITS FORMER PRESTIGE AMONG THE NORTHERN STATES",
+    "hypothesis_raw": " Thus was Uratou crippled and humiliated. It never regained its former prestige among the northern states.",
+    "wer": 0.0625,
+    "transcribe_seconds": 0.7616569995880127
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7975-280076-0026",
+    "ground_truth": "I STAYED THERE UNTIL THE EIGHTH OF FEBRUARY EIGHTEEN SEVENTY FOUR",
+    "hypothesis_raw": " I stayed there until the 8th of February, 1874.",
+    "wer": 0.36363636363636365,
+    "transcribe_seconds": 0.61850905418396
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3997-180297-0016",
+    "ground_truth": "WE NO LONGER BELONG TO OURSELVES",
+    "hypothesis_raw": " We no longer belong to ourselves.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5450780391693115
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "6128-63240-0013",
+    "ground_truth": "SHE WAS ATTRACTIVE AND IMPERTINENT ESPECIALLY THE LATTER",
+    "hypothesis_raw": " She was attractive and impertinent, especially the latter.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5998647212982178
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "2414-128291-0024",
+    "ground_truth": "THOU AMIABLE ONE",
+    "hypothesis_raw": " The Amiable One",
+    "wer": 0.3333333333333333,
+    "transcribe_seconds": 0.5151841640472412
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7018-75788-0008",
+    "ground_truth": "WE WEIGHED ANCHOR AND SHAHRAZAD PERCEIVED THE DAWN OF DAY AND CEASED SAYING HER PERMITTED SAY",
+    "hypothesis_raw": " We wade, anchor, and Charizard perceived the dawn of the day and ceased to say in her permitted say.",
+    "wer": 0.375,
+    "transcribe_seconds": 0.7463710308074951
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3997-180294-0022",
+    "ground_truth": "HERE ARE MY ORDERS TO NIGHT AT THE VAUDEVILLE",
+    "hypothesis_raw": " Here are my orders, tonight at the Vadaville.",
+    "wer": 0.3333333333333333,
+    "transcribe_seconds": 0.625234842300415
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7018-75788-0009",
+    "ground_truth": "WHEN IT WAS THE FIVE HUNDRED AND FIFTY NINTH NIGHT",
+    "hypothesis_raw": " when it was the 559th night.",
+    "wer": 0.5,
+    "transcribe_seconds": 0.5891330242156982
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "1998-29455-0006",
+    "ground_truth": "BUT I SHALL HAVE THEM WHILE THEY'RE ALIVE SAID DICKIE AS HE HAD SAID TO THE PAWNBROKER ABOUT THE MOONFLOWERS",
+    "hypothesis_raw": " But I shall have them while they are alive, said Diggy, as he had said to the pondbroker about the moonflowers.",
+    "wer": 0.2,
+    "transcribe_seconds": 0.8528890609741211
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "6070-86744-0003",
+    "ground_truth": "I CAN SCARCELY CREDIT IT",
+    "hypothesis_raw": " I can scarcely credit it.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5501587390899658
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7902-96591-0018",
+    "ground_truth": "YES IF OTHER WAYS FAILED HE COULD ESCAPE UP THE CHIMNEY",
+    "hypothesis_raw": " Yes, if other ways failed he could escape up the chimney.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6135690212249756
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "7975-280076-0027",
+    "ground_truth": "I HAD NOT HEARD OF THAT WHEN I WROTE THE LETTER OF EIGHTEEN SEVENTY FOUR AND TO CORRECT ANY MISAPPREHENSION THAT MIGHT BE CREATED BY OMITTING IT I WILL SAY THAT AT THAT TIME I WAS AT NEOSHO KANSAS WITH A DROVE OF CATTLE WHICH I SOLD TO MAJOR RAY",
+    "hypothesis_raw": " I had not heard of that when I wrote the letter of 1874. And to correct any misapprehension that might be created by omitting it, I will say that at the time I was at Neoshoek, Kansas, with a drove of cattle which I sold to Major Ray.",
+    "wer": 0.1,
+    "transcribe_seconds": 1.252549171447754
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "6432-63722-0014",
+    "ground_truth": "BUSTED HIS HEAD IN WITH A HEAVY CANDLESTICK ONE OF A PAIR",
+    "hypothesis_raw": " busted his head in with a heavy candlestick, one of a pair.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.6439480781555176
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "5442-32873-0009",
+    "ground_truth": "THERE DON'T MIND ME SHE SAID SHARPLY AND GETTING UP SHE LOOKED DOWN AT HER DRESS AND THIN SHOES AND SEEMING TO RECOLLECT HERSELF SHE TOOK THE CANDLE HE HAD JUST SET DOWN AND WENT SWIFTLY TO HER ROOM",
+    "hypothesis_raw": " There, don't mind me, she said sharply, and getting up she looked down at her dress and thin shoes. And seeming to recollect herself, she tipped the candle he had just set down and went swiftly to her room.",
+    "wer": 0.02564102564102564,
+    "transcribe_seconds": 1.1528830528259277
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3764-168671-0028",
+    "ground_truth": "HE HAD HARDLY THE STRENGTH TO STAMMER",
+    "hypothesis_raw": " He had hardly the strength to stutter.",
+    "wer": 0.14285714285714285,
+    "transcribe_seconds": 0.5622992515563965
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "8188-269288-0053",
+    "ground_truth": "ANNIE DID NOT MEAN TO CONFIDE IN ANYONE THAT NIGHT AND THE KINDEST THING WAS TO LEAVE HER ALONE",
+    "hypothesis_raw": " And he did not mean to confine anyone that night. And the kindest thing was to leave her alone.",
+    "wer": 0.21052631578947367,
+    "transcribe_seconds": 0.7656018733978271
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "3528-168669-0126",
+    "ground_truth": "AH THE DE EXCLAIMED FAUCHELEVENT",
+    "hypothesis_raw": " Ah, the da exported professional.",
+    "wer": 0.6,
+    "transcribe_seconds": 3.257652997970581
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "4350-10919-0028",
+    "ground_truth": "NERVOUS IRRITABILITY HE SAID TO THE PRINCESS WHEN KITTY HAD LEFT THE ROOM HOWEVER I HAD FINISHED",
+    "hypothesis_raw": " Nervous irritability, he said to the princess, when Kitty had left the room. However, I had finished...",
+    "wer": 0.0,
+    "transcribe_seconds": 0.7794392108917236
+  },
+  {
+    "model_size": "small",
+    "split": "test-other",
+    "utt_id": "1688-142285-0008",
+    "ground_truth": "HIS FATHER DYING IN MISERABLE CIRCUMSTANCES",
+    "hypothesis_raw": " His father dying in miserable circumstances.",
+    "wer": 0.0,
+    "transcribe_seconds": 0.5563192367553711
+  }
+]
