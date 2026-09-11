@@ -1,5 +1,7 @@
 # Does a bigger Whisper model just buy accuracy, or also robustness
 
+[![tests](https://github.com/JAYANSHUBADLANI/whisper-benchmark/actions/workflows/tests.yml/badge.svg)](https://github.com/JAYANSHUBADLANI/whisper-benchmark/actions/workflows/tests.yml)
+
 A word error rate and speed benchmark of Whisper tiny, base, and small on
 real recorded speech, LibriSpeech test-clean and test-other, entirely
 local, no API keys, no cloud.
