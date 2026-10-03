@@ -19,8 +19,8 @@ from text_normalize import normalize
 
 
 def load_model_with_retry(model_size: str, max_attempts: int = 5):
-    # this network has been intermittently dropping mid download all session;
-    # retry rather than losing an already completed model size's results
+    # checkpoint downloads can drop midway on a flaky connection; retry
+    # rather than losing an already completed model size's results
     for attempt in range(1, max_attempts + 1):
         try:
             return whisper.load_model(model_size)
